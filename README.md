@@ -33,56 +33,6 @@
 
 ---
 
-
-## 📘 Table of Contents
-
-- [Why Scrape Google Maps?](#why-scrape-google-maps)
-- [🥇 CoreClaw](#-coreclaw)
-- [Lead Generation](#lead-generation)
-- [Local SEO](#local-seo)
-- [AI Agents](#ai-agents)
-- [License](#license)
-- [Related Repositories](#related-repositories)
-- [Support This Project](#-support-this-project)
-
----
-
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/best-google-maps-scraper?style=social)](https://github.com/data-scrape/best-google-maps-scraper)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/best-google-maps-scraper?style=social)](https://github.com/data-scrape/best-google-maps-scraper/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/best-google-maps-scraper)](https://github.com/data-scrape/best-google-maps-scraper/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/best-google-maps-scraper)](https://github.com/data-scrape/best-google-maps-scraper/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Best Google Maps scraper 2025 - business data extraction tool
-
-
-<!-- SEO keywords: best google maps scraper, Best Google Maps Scraper, best google maps scraper python, best google maps scraper github, best best google maps scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
----
-
-
 > Looking for the **best Google Maps Scraper**? This repository compares the leading Google Maps scraping tools, APIs, and platforms for extracting business listings, reviews, and local business data.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
